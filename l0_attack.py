@@ -8,7 +8,7 @@ from __future__ import print_function
 
 import sys
 import tensorflow as tf
-import numpy as np
+import numpy as np 
 
 MAX_ITERATIONS = 1000   # number of iterations to perform gradient descent
 ABORT_EARLY = True      # abort gradient descent upon first valid solution
